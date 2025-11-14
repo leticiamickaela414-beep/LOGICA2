@@ -1,0 +1,12 @@
+real x                   x= 1,5
+real y                   y= 2,5
+real k
+
+leia(x)
+leia(y)
+leia(k)
+
+escreva(x"\n"
+escreva(y,"\n"
+
+R= escreva dois numero reais (x e y).

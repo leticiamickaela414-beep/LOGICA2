@@ -1,0 +1,14 @@
+inteiro a
+real b
+real c 
+cadeia 1
+
+b= 8.4
+a= tipos . real para inteiro(b)= transformar b para numero inteiro= 8.4.10= 84
+c= b-a -> c=8.4 - 84 = - 75,6 . (-1)= 75,6
+c= c * 10 -> 75,6 * 10 = 756
+1= "c" -> I= 756
+
+escreva(c,"\n")   = 756
+escreva("I","\n")  = 756
+escreva(1)         = 756
